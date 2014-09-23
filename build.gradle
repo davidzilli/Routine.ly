@@ -29,6 +29,7 @@ android {
     buildToolsVersion "19.1.0"
 
     defaultConfig {
+        applicationId 'com.bravebeard.routinely'
         minSdkVersion 18
         targetSdkVersion 18
         versionCode 2

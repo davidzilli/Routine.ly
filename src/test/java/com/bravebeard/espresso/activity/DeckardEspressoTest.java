@@ -1,9 +1,10 @@
-package com.example.espresso.activity;
+package com.bravebeard.espresso.activity;
 
 import android.test.ActivityInstrumentationTestCase2;
 import android.test.suitebuilder.annotation.LargeTest;
-import com.example.R;
-import com.example.robolectric.DeckardActivity;
+
+import com.bravebeard.routinely.R;
+import com.bravebeard.routinely.robolectric.DeckardActivity;
 
 import static com.google.android.apps.common.testing.ui.espresso.Espresso.onView;
 import static com.google.android.apps.common.testing.ui.espresso.assertion.ViewAssertions.matches;

@@ -1,7 +1,7 @@
-package com.example.activity;
+package com.bravebeard.activity;
 
 import android.app.Activity;
-import com.example.robolectric.DeckardActivity;
+import com.bravebeard.routinely.robolectric.DeckardActivity;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.robolectric.Robolectric;

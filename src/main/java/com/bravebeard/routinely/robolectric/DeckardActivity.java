@@ -1,8 +1,9 @@
-package com.example.robolectric;
+package com.bravebeard.routinely.robolectric;
 
 import android.app.Activity;
 import android.os.Bundle;
-import com.example.R;
+
+import com.bravebeard.routinely.R;
 
 public class DeckardActivity extends Activity {
 

@@ -2,12 +2,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           android:versionCode="2"
           android:versionName="1.0.0-SNAPSHOT"
-          package="com.example">
+          package="com.bravebeard.routinely">
 
     <uses-sdk android:minSdkVersion="18"
               android:targetSdkVersion="18"/>
 
-    <application android:name=".DeckardApplication">
+    <application android:name=".RoutinelyApplication">
 
         <activity android:name=".robolectric.DeckardActivity" android:screenOrientation="portrait">
             <intent-filter>
